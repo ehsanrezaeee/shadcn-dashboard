@@ -1,0 +1,58 @@
+[
+  {
+    "key": "1",
+    "amount": "4075090000",
+    "en_name": "IRT",
+    "fa_name": "ریال",
+    "freeze_amount": "0",
+    "available_amount": "4075090000",
+    "estimated_amount": "4075090000",
+    "change": {
+      "percent": "12.4",
+      "amount": "2345230",
+      "type": "increase"
+    }
+  },
+  {
+    "key": "2",
+    "amount": "4075090000",
+    "en_name": "Tether",
+    "fa_name": "تتر",
+    "freeze_amount": "0",
+    "available_amount": "4075090000",
+    "estimated_amount": "4075090000",
+    "change": {
+      "percent": "12.4",
+      "amount": "2345230",
+      "type": "decrease"
+    }
+  },
+  {
+    "key": "3",
+    "amount": "4075090000",
+    "en_name": "Tether",
+    "fa_name": "تتر",
+    "freeze_amount": "0",
+    "available_amount": "4075090000",
+    "estimated_amount": "4075090000",
+    "change": {
+      "percent": "12.4",
+      "amount": "2345230",
+      "type": "increase"
+    }
+  },
+  {
+    "key": "4",
+    "amount": "4075090000",
+    "en_name": "Tether",
+    "fa_name": "تتر",
+    "freeze_amount": "0",
+    "available_amount": "4075090000",
+    "estimated_amount": "4075090000",
+    "change": {
+      "percent": "12.4",
+      "amount": "2345230",
+      "type": "decrease"
+    }
+  }
+]

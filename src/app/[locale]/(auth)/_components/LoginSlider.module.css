@@ -1,0 +1,51 @@
+.swiper-button-next,
+.swiper-button-prev {
+  box-shadow: 5px 5px 10px #bebebe, -5px -5px 10px #ffffff;
+  background-color: #fdfcfc !important; /* Gray background color */
+  border: 2px solid #7e7d7d !important; /* Border color and width */
+  border-radius: 50% !important; /* Rounded shape */
+  font-size: 24px !important; /* Default font size */
+  width: 40px !important; /* Default width */
+  height: 40px !important; /* Default height */
+  line-height: 40px !important; /* Should match the height for vertical centering */
+}
+
+/* Customize the arrow icon color */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  color: #00386c !important; /* Arrow color */
+}
+/* Media query for larger screens */
+@media (min-width: 1024px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    font-size: 32px !important; /* Adjust font size for larger screens */
+    width: 60px !important; /* Adjust width for larger screens */
+    height: 60px !important; /* Adjust height for larger screens */
+    line-height: 60px !important; /* Adjust line-height for larger screens */
+  }
+}
+@media (max-width: 767px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    font-size: 16px !important; /* Adjust font size for smaller screens */
+    width: 30px !important; /* Adjust width for smaller screens */
+    height: 30px !important; /* Adjust height for smaller screens */
+    line-height: 30px !important; /* Adjust line-height for smaller screens */
+  }
+}
+.swiper-button-next,
+.swiper-button-prev {
+  width: 33px !important;
+  height: 33px !important;
+  position: relative;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 22px !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

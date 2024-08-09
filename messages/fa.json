@@ -1,0 +1,108 @@
+{
+  "Index": {
+    "title": "خوش آمدید"
+  },
+  "LocaleSwitcher": {
+    "label": "تغییر زبان",
+    "locale": "{locale, select, fa {فارسی} en {English} other {Unknown}}"
+  },
+  "Dashboard": {
+    "dashboard": "داشبورد",
+    "notifications": "اعلانات",
+    "mtest": "تست های من",
+    "reports": "گزارش ها",
+    "wallet": "کیف پول",
+    "exam": "امتحانات",
+    "settings": "تنظیمات",
+    "support": "پشتیبانی",
+    "search": "جستجو",
+    "exit": "خروج",
+    "profile": "پروفایل کاربری",
+    "account": "اکانت من",
+    "courses": "دوره ها",
+    "students": "دانشجویان"
+  },
+  "Global": {
+    "search": "جست‌وجو",
+    "deposit": "واریز",
+    "withdraw": "برداشت",
+    "buy": "خرید",
+    "sell": "فروش",
+    "successful": "موفق",
+    "unsuccessful": "ناموفق",
+    "accepted": "تایید شده",
+    "rejected": "رد شده",
+    "edit": "ویرایش",
+    "phone": "شماره موبایل",
+    "nationalCode": "کد ملی",
+    "email": "ایمیل",
+    "address": "آدرس",
+    "save": "ذخیره",
+    "status": "وضعیت"
+  },
+  "Modal": {},
+  "Wallet": {
+    "tableTitle": "دارایی های من",
+    "name": "نام",
+    "amount": "موجودی کل",
+    "available": "در دسترس",
+    "locked": "قفل شده"
+  },
+  "Transactions": {
+    "date": "تاریخ",
+    "type": "نوع",
+    "value": "مقدار",
+    "status": "وضعیت",
+    "tmn": "تومان"
+  },
+  "depositCTA": {
+    "BtnText": "شارژ کیف‌ پول",
+    "description": "خرید و فروش در بیتشال را شروع کنید!"
+  },
+  "Profile": {
+    "basic": "سطح پایه",
+    "silver": "سطح نقره ای",
+    "gold": "سطح طلایی",
+    "notAuthorized": "احراز هویت نشده",
+    "descriptionBankCardBox": "با انتخاب هر یک از کارت‌های بانکی تایید شده می‌توانید به عنوان کارت پیش‌فرض جهت خرید و فروش در پلتفرم استفاده کنید.",
+    "titleBankCardBox": "اطلاعات بانکی",
+    "addBtnTextBankCardBox": "افزودن کارت بانکی",
+    "sheba_number": "شماره شبا",
+    "card_number": "شماره کارت",
+    "bank": "بانک",
+    "status": "وضعیت",
+    "actions": "عملیات",
+    "inputCardNumber": "شماره کارت بانکی خود را وارد کنید"
+  },
+  "Auth": {
+    "email": "ایمیل",
+    "password": "پسورد",
+    "sign-in": "ورود",
+    "forgot": "فراموشی رمز",
+    "login-phrase": "خوش آمدید",
+    "signup-phrase": "ثبت نام",
+    "detail-signup": "ثبت نام کنید و ۳۰ روز اشتراک رایگان دریافت کنید.",
+    "terms": "با ثبت نام در پلتفرم با قوانین و مقررات موافقت میکنم.",
+    "has-account": "اکانت دارید؟",
+    "name": "نام و نام خانوادگی",
+    "sign-up-google": "با اکانت گوگل ثبت نام کنید",
+    "sign-up-facebook": "با اکانت فیسبوک ثبت نام کنید",
+    "sign-up": "ثبت نام",
+    "captcha": "کپچا کد",
+    "captchacodeplaceholder": "لطفا کد کپچا را وارد کنید",
+    "sign-in-google": "با اکانت گوگل وارد شوید",
+    "sign-in-facebook": "با اکانت فیسبوک وارد شوید",
+    "no-account": "اکانت ندارید؟",
+    "tos": "تایید به منزله پذیرفتن قوانین استیچ است",
+    "detail": "لطفا اطلاعات خود را وارد کنید",
+    "descriptionBankCardBox": "By choosing any of the approved bank cards, you can use it as the default card for buying and selling on the platform.",
+    "titleBankCardBox": "Cards Information",
+    "addBtnTextBankCardBox": "Add card",
+    "sheba_number": "Sheba Number",
+    "card_number": "Card Number",
+    "bank": "Bank",
+    "status": "Status",
+    "actions": "Actions",
+    "inputCardNumber": "Enter your card number"
+  }
+}
