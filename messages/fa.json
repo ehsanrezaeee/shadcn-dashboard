@@ -20,7 +20,11 @@
     "profile": "پروفایل کاربری",
     "account": "اکانت من",
     "courses": "دوره ها",
-    "students": "دانشجویان"
+    "students": "دانشجویان",
+    "analytics": "اعلانات",
+    "calendar": "در حال ساخت",
+    "financial": "مالی(در حال ساخت)",
+    "testBuilder": "تست ساز(در حال ساخت)"
   },
   "Global": {
     "search": "جست‌وجو",
